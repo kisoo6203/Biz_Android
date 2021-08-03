@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616586926616",
+    "project_id": "hello-android-bfd46",
+    "storage_bucket": "hello-android-bfd46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616586926616:android:5ab4153a0c73879f8b016d",
+        "android_client_info": {
+          "package_name": "com.kisoo.chatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616586926616-priki47qvsmrhte99pb1i4j90l44a8f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_uuDeF7sgO9IBUYx6R3f_gee_Lz_u-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616586926616-priki47qvsmrhte99pb1i4j90l44a8f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
