@@ -9,7 +9,7 @@ public interface NaverRetrofit {
     public Call<NaverParent> getMovies(
             String clientId,
             String clientSecret,
-            ｆｆ
+
     )
 
 }
